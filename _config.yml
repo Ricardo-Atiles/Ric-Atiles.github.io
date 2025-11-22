@@ -54,8 +54,8 @@ plugins:
 
 author:
   name   : "Ricardo Atiles"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/Screenshot 2025-11-21 155755.jpg"
+  bio    : "GitHub Practice, content TBD"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
